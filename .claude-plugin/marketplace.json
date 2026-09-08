@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nhack-platinum-plugins",
+  "description": "N-Hack Platinum AI Agent Plugins",
+  "owner": {
+    "name": "N-Hack",
+    "email": "sam@n-hack.com"
+  },
+  "plugins": [
+    {
+      "name": "nhack-platinum",
+      "description": "N-Hack Platinum Discord Bridge. Full access. Skills included.",
+      "source": "./",
+      "category": "messaging"
+    }
+  ]
+}
